@@ -1,9 +1,15 @@
-<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UseWPF>true</UseWPF>
     <Authors>Nanda Doddapaneni</Authors>
+    <Company></Company>
+    <Description>Onboarding framework for WPF-XAML Presentation Applications.</Description>
+    <PackageProjectUrl>https://github.com/LadderLogic/Xamboarding</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/LadderLogic/Xamboarding</RepositoryUrl>
+    <PackageTags>WPF XAML Onboarding In-App-Tutorial</PackageTags>
+    <PackageReleaseNotes>First release of WPF Onboarding with delay based transitions.</PackageReleaseNotes>
   </PropertyGroup>
 
 </Project>
